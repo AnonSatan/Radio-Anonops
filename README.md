@@ -6,7 +6,7 @@ Primarily, this is Single Page App (SPA) with mobile responsiveness baked in.
 
 TODO:
 
-    Home page with top nav with DJinfo, tutorials.
+    Home page with top nav with links to DJinfo, tutorials, archive, ...
     Social media, twitter feed (vertical, collapsable)
     DJinfo page, use existing.
     Tutorial page, can use existing, modified for mobile/bootstrap.
